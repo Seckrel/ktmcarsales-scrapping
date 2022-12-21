@@ -3,7 +3,6 @@ import requests
 import re
 import pandas as pd
 from tqdm import tqdm
-import pprint
 
 AD_TITLE_COL = "Title"
 AD_PRICE_COL = "Price"
