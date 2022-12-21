@@ -1,0 +1,6 @@
+- Create Virtual Environment
+  - ### python -m venv venv
+- Install Packages
+  - ### pip install -r requirements.txt
+- Run main.py
+  - ### python main.py
